@@ -12,7 +12,7 @@
     <li>
     16 Personality Factor Questionnaire (16PF)
     <ul>
-    Cattle, Tatsuoka and Eber 1949
+    <li>Cattle, Tatsuoka and Eber 1949</li>
     </ul>
         <li>Based on Allports 4000 proposed personality traits</li>
         <li>Cattle narrowed it down to 171 and then 16 to design this tool</li>
