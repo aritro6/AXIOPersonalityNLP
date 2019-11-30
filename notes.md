@@ -13,7 +13,6 @@
     16 Personality Factor Questionnaire (16PF)
     <ul>
     <li>Cattle, Tatsuoka and Eber 1949</li>
-    </ul>
         <li>Based on Allports 4000 proposed personality traits</li>
         <li>Cattle narrowed it down to 171 and then 16 to design this tool</li>
         <li>This questionnaire is designed to measure normal behaviors</li>
@@ -40,6 +39,6 @@
         </ul>
         <li>Designed to be Used by age 16+</li>
         <li>30 Minutes to complete</li>
-
+    </ul>
 </ul>
 </p>
