@@ -1,4 +1,4 @@
-<h1>Personality Test</h1>
+<h1>Personality Tests</h1>
 <p>
 <ul>
     <li>
@@ -8,7 +8,8 @@
         <li>28 questions osed as most like you and least like you</li>
         <li>Designed to be easy to use, easy to administer, and to be delivered by anyone</li>
         <li> Walter Clark 1940</li>
-    </ul></li>
+    </ul>
+    </li>
     <li>
     16 Personality Factor Questionnaire (16PF)
     <ul>
@@ -40,5 +41,31 @@
         <li>Designed to be Used by age 16+</li>
         <li>30 Minutes to complete</li>
     </ul>
+    <li>
+    HEXACO Model of Personality Structure Personality Invintory
+    <li>Year 2000</li>
+    <li>Measuers 6 major personality dimensions namely</li>
+        <ul>
+            <li>Honesty-hulimity</li>
+            <li>Emotionality</li>
+            <li>Extroversion</li>
+            <li>Agreeableness</li>
+            <li>Conscientiousness</li>
+            <li>Openness to Experience</li>
+        </ul>
+    <li>This bitch is 200 questions long (but they have a 100 and 60 question versions)</li>
+    </li>
+    <li>
+    Revised NEO Personality Inventory (NEO-PI-R)
+    <li>Costa and McCrae 1970s and finalized in 2005</li>
+    <li>This test was designed to measure and test the Big 5 **When created?** (5 Factor Model)
+    <ul>
+        <li>Openness to Expereinces</li>
+        <li>Conscientiousness</li>
+        <li>Extroversion</li>
+        <li>Agreeableness</li>
+        <li>Neuroticism</li>
+    </ul>
+    </li>
 </ul>
 </p>
