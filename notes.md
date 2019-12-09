@@ -43,18 +43,20 @@
     </ul>
     <li>
     HEXACO Model of Personality Structure Personality Invintory
-    <li>Year 2000</li>
-    <li>Measuers 6 major personality dimensions namely</li>
-        <ul>
-            <li>Honesty-hulimity</li>
-            <li>Emotionality</li>
-            <li>Extroversion</li>
-            <li>Agreeableness</li>
-            <li>Conscientiousness</li>
-            <li>Openness to Experience</li>
-        </ul>
-    <li>This bitch is 200 questions long (but they have a 100 and 60 question versions)</li>
-    </li>
+    <ul>
+        <li>Year 2000</li>
+        <li>Measuers 6 major personality dimensions namely</li>
+            <ul>
+                <li>Honesty-hulimity</li>
+                <li>Emotionality</li>
+                <li>Extroversion</li>
+                <li>Agreeableness</li>
+                <li>Conscientiousness</li>
+                <li>Openness to Experience</li>
+            </ul>
+        <li>This bitch is 200 questions long (but they have a 100 and 60 question versions)</li>
+        </li>
+    </ul>
     <li>
     Revised NEO Personality Inventory (NEO-PI-R)
     <li>Costa and McCrae 1970s and finalized in 2005</li>
