@@ -59,6 +59,7 @@
     </ul>
     <li>
     Revised NEO Personality Inventory (NEO-PI-R)
+    <ul>
     <li>Costa and McCrae 1970s and finalized in 2005</li>
     <li>This test was designed to measure and test the Big 5 **When created?** (5 Factor Model)
     <ul>
@@ -69,5 +70,6 @@
         <li>Neuroticism</li>
     </ul>
     </li>
+    </ul>
 </ul>
 </p>
